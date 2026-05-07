@@ -1,4 +1,3 @@
-# homework3
 # CSCI 3329 — Homework 3 Report  
 **Comparing Classification Algorithms with Feature Selection**
 
